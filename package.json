@@ -41,7 +41,7 @@
     "hxz-api": "^1.0.1"
   },
   "scripts": {
-    "start": "node zeeone",
+    "start": "npm start",
     "test": "supervisor main"
   },
   "repository": {
